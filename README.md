@@ -2,7 +2,7 @@
 
 Projeto construido em aula
 
-![preview]()
+![preview](image/preview.png)
 
 ## Tecnologias
 
