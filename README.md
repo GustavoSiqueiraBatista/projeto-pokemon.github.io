@@ -12,4 +12,4 @@ Projeto construido em aula
 -GIT
 -GitHub
 
-[Acesso ao conteúdo](https://gustavosiqueirabatista.github.io/projeto-pokemon/)
+[Acesso ao conteúdo](https://gustavosiqueirabatista.github.io/projeto-pokemon.github.io/)
